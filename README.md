@@ -1,2 +1,2 @@
 # Operation_research
-Operation research by puthon
+Operation research by python
